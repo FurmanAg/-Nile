@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "name": "Nike Air Force 1 '07",
+    "category": "sneakers",
+    "price": 119.99,
+    "image": "https://static.nike.com/a/images/air-force-1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Air Jordan 1 Retro High",
+    "category": "basketball",
+    "price": 159.99,
+    "image": "https://static.nike.com/a/images/air-jordan-1.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Nike Blazer Mid '77",
+    "category": "sneakers",
+    "price": 109.99,
+    "image": "https://static.nike.com/a/images/blazer-mid-77.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Nike React Element 55",
+    "category": "lifestyle",
+    "price": 129.99,
+    "image": "https://static.nike.com/a/images/react-element-55.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Nike Pegasus 40",
+    "category": "running",
+    "price": 139.99,
+    "image": "https://static.nike.com/a/images/pegasus-40.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Air Jordan 4 Retro",
+    "category": "basketball",
+    "price": 209.99,
+    "image": "https://static.nike.com/a/images/air-jordan-4.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Nike Dunk Low",
+    "category": "sneakers",
+    "price": 114.99,
+    "image": "https://static.nike.com/a/images/dunk-low.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Nike Metcon 8",
+    "category": "training",
+    "price": 139.99,
+    "image": "https://static.nike.com/a/images/metcon-8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Nike Vaporfly 3",
+    "category": "running",
+    "price": 249.99,
+    "image": "https://static.nike.com/a/images/vaporfly-3.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Nike SB Dunk Low Pro",
+    "category": "skateboarding",
+    "price": 119.99,
+    "image": "https://static.nike.com/a/images/sb-dunk-low.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Nike Air Max 270",
+    "category": "lifestyle",
+    "price": 149.99,
+    "image": "https://static.nike.com/a/images/air-max-270.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Air Jordan 11 Retro",
+    "category": "basketball",
+    "price": 224.99,
+    "image": "https://static.nike.com/a/images/air-jordan-11.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Nike Free RN 5.0",
+    "category": "running",
+    "price": 99.99,
+    "image": "https://static.nike.com/a/images/free-rn-5.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Nike Cortez",
+    "category": "lifestyle",
+    "price": 89.99,
+    "image": "https://static.nike.com/a/images/cortez.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Nike ZoomX Invincible Run",
+    "category": "running",
+    "price": 189.99,
+    "image": "https://static.nike.com/a/images/invincible-run.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Nike Air Presto",
+    "category": "lifestyle",
+    "price": 134.99,
+    "image": "https://static.nike.com/a/images/air-presto.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Air Jordan 3 Retro",
+    "category": "basketball",
+    "price": 199.99,
+    "image": "https://static.nike.com/a/images/air-jordan-3.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Nike Joyride Run",
+    "category": "running",
+    "price": 179.99,
+    "image": "https://static.nike.com/a/images/joyride-run.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Nike Air Max 97",
+    "category": "lifestyle",
+    "price": 174.99,
+    "image": "https://static.nike.com/a/images/air-max-97.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Nike LeBron 21",
+    "category": "basketball",
+    "price": 199.99,
+    "image": "https://static.nike.com/a/images/lebron-21.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Nike Air Huarache",
+    "category": "lifestyle",
+    "price": 124.99,
+    "image": "https://static.nike.com/a/images/air-huarache.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Nike Alphafly Next%",
+    "category": "running",
+    "price": 274.99,
+    "image": "https://static.nike.com/a/images/alphafly-next.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Nike Dunk High",
+    "category": "sneakers",
+    "price": 124.99,
+    "image": "https://static.nike.com/a/images/dunk-high.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Nike KD 16",
+    "category": "basketball",
+    "price": 159.99,
+    "image": "https://static.nike.com/a/images/kd-16.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Nike Air Max 90",
+    "category": "lifestyle",
+    "price": 129.99,
+    "image": "https://static.nike.com/a/images/air-max-90.jpg"
+  },
+  {
+    "id": 26,
+    "name": "Nike Zoom Freak 5",
+    "category": "basketball",
+    "price": 139.99,
+    "image": "https://static.nike.com/a/images/zoom-freak-5.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Nike Waffle One",
+    "category": "lifestyle",
+    "price": 104.99,
+    "image": "https://static.nike.com/a/images/waffle-one.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Nike Air Max Plus",
+    "category": "lifestyle",
+    "price": 174.99,
+    "image": "https://static.nike.com/a/images/air-max-plus.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Nike React Infinity Run 4",
+    "category": "running",
+    "price": 169.99,
+    "image": "https://static.nike.com/a/images/infinity-run-4.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Air Jordan 12 Retro",
+    "category": "basketball",
+    "price": 209.99,
+    "image": "https://static.nike.com/a/images/air-jordan-12.jpg"
+  },
+  {
+    "id": 31,
+    "name": "Nike Air Max 1",
+    "category": "lifestyle",
+    "price": 139.99,
+    "image": "https://static.nike.com/a/images/air-max-1.jpg"
+  },
+  {
+    "id": 32,
+    "name": "Nike SB Zoom Blazer",
+    "category": "skateboarding",
+    "price": 89.99,
+    "image": "https://static.nike.com/a/images/sb-blazer.jpg"
+  },
+  {
+    "id": 33,
+    "name": "Nike Air Zoom Tempo",
+    "category": "running",
+    "price": 199.99,
+    "image": "https://static.nike.com/a/images/zoom-tempo.jpg"
+  },
+  {
+    "id": 34,
+    "name": "Nike Air Force 1 Low",
+    "category": "sneakers",
+    "price": 114.99,
+    "image": "https://static.nike.com/a/images/air-force-1-low.jpg"
+  },
+  {
+    "id": 35,
+    "name": "Nike PG 6",
+    "category": "basketball",
+    "price": 119.99,
+    "image": "https://static.nike.com/a/images/pg-6.jpg"
+  },
+  {
+    "id": 36,
+    "name": "Nike Air Max 2090",
+    "category": "lifestyle",
+    "price": 149.99,
+    "image": "https://static.nike.com/a/images/air-max-2090.jpg"
+  },
+  {
+    "id": 37,
+    "name": "Nike Renew Run 3",
+    "category": "running",
+    "price": 89.99,
+    "image": "https://static.nike.com/a/images/renew-run-3.jpg"
+  },
+  {
+    "id": 38,
+    "name": "Nike Off-White Air Force 1",
+    "category": "sneakers",
+    "price": 399.99,
+    "image": "https://static.nike.com/a/images/offwhite-af1.jpg"
+  },
+  {
+    "id": 39,
+    "name": "Nike Cosmic Unity 3",
+    "category": "basketball",
+    "price": 169.99,
+    "image": "https://static.nike.com/a/images/cosmic-unity-3.jpg"
+  },
+  {
+    "id": 40,
+    "name": "Nike Air Max Tailwind",
+    "category": "running",
+    "price": 179.99,
+    "image": "https://static.nike.com/a/images/tailwind.jpg"
+  },
+  {
+    "id": 41,
+    "name": "Nike Air Max 95",
+    "category": "lifestyle",
+    "price": 174.99,
+    "image": "https://static.nike.com/a/images/air-max-95.jpg"
+  },
+  {
+    "id": 42,
+    "name": "Nike SB Nyjah 3",
+    "category": "skateboarding",
+    "price": 109.99,
+    "image": "https://static.nike.com/a/images/nyjah-3.jpg"
+  },
+  {
+    "id": 43,
+    "name": "Nike ZoomX Dragonfly",
+    "category": "running",
+    "price": 159.99,
+    "image": "https://static.nike.com/a/images/dragonfly.jpg"
+  },
+  {
+    "id": 44,
+    "name": "Nike Air Force 1 High",
+    "category": "sneakers",
+    "price": 129.99,
+    "image": "https://static.nike.com/a/images/air-force-1-high.jpg"
+  },
+  {
+    "id": 45,
+    "name": "Nike GT Cut 3",
+    "category": "basketball",
+    "price": 189.99,
+    "image": "https://static.nike.com/a/images/gt-cut-3.jpg"
+  },
+  {
+    "id": 46,
+    "name": "Nike Air Max Dn",
+    "category": "lifestyle",
+    "price": 159.99,
+    "image": "https://static.nike.com/a/images/air-max-dn.jpg"
+  },
+  {
+    "id": 47,
+    "name": "Nike Structure 25",
+    "category": "running",
+    "price": 139.99,
+    "image": "https://static.nike.com/a/images/structure-25.jpg"
+  },
+  {
+    "id": 48,
+    "name": "Nike Book 1",
+    "category": "basketball",
+    "price": 139.99,
+    "image": "https://static.nike.com/a/images/book-1.jpg"
+  },
+  {
+    "id": 49,
+    "name": "Nike Air Max Scorpion",
+    "category": "lifestyle",
+    "price": 249.99,
+    "image": "https://static.nike.com/a/images/scorpion.jpg"
+  },
+  {
+    "id": 50,
+    "name": "Nike Air Zoom Alphafly",
+    "category": "running",
+    "price": 279.99,
+    "image": "https://static.nike.com/a/images/alphafly.jpg"
+  },
+  {
+    "id": 51,
+    "name": "Nike Ja 1",
+    "category": "basketball",
+    "price": 119.99,
+    "image": "https://static.nike.com/a/images/ja-1.jpg"
+  },
+  {
+    "id": 52,
+    "name": "Nike Air Max 720",
+    "category": "lifestyle",
+    "price": 189.99,
+    "image": "https://static.nike.com/a/images/air-max-720.jpg"
+  },
+  {
+    "id": 53,
+    "name": "Nike Downshifter 13",
+    "category": "running",
+    "price": 79.99,
+    "image": "https://static.nike.com/a/images/downshifter-13.jpg"
+  },
+  {
+    "id": 54,
+    "name": "Nike Sabrina 1",
+    "category": "basketball",
+    "price": 129.99,
+    "image": "https://static.nike.com/a/images/sabrina-1.jpg"
+  },
+  {
+    "id": 55,
+    "name": "Nike Air Max Pulse",
+    "category": "lifestyle",
+    "price": 149.99,
+    "image": "https://static.nike.com/a/images/air-max-pulse.jpg"
+  },
+  {
+    "id": 56,
+    "name": "Nike Invincible 3",
+    "category": "running",
+    "price": 189.99,
+    "image": "https://static.nike.com/a/images/invincible-3.jpg"
+  },
+  {
+    "id": 57,
+    "name": "Nike Air Force 1 React",
+    "category": "sneakers",
+    "price": 129.99,
+    "image": "https://static.nike.com/a/images/af1-react.jpg"
+  },
+  {
+    "id": 58,
+    "name": "Nike Giannis Immortality 3",
+    "category": "basketball",
+    "price": 89.99,
+    "image": "https://static.nike.com/a/images/immortality-3.jpg"
+  },
+  {
+    "id": 59,
+    "name": "Nike Air Max 270 React",
+    "category": "lifestyle",
+    "price": 159.99,
+    "image": "https://static.nike.com/a/images/270-react.jpg"
+  },
+  {
+    "id": 60,
+    "name": "Nike Zoom Streak",
+    "category": "running",
+    "price": 119.99,
+    "image": "https://static.nike.com/a/images/zoom-streak.jpg"
+  },
+  {
+    "id": 61,
+    "name": "Nike Air Force 1 Shadow",
+    "category": "sneakers",
+    "price": 129.99,
+    "image": "https://static.nike.com/a/images/af1-shadow.jpg"
+  },
+  {
+    "id": 62,
+    "name": "Nike Luka 2",
+    "category": "basketball",
+    "price": 129.99,
+    "image": "https://static.nike.com/a/images/luka-2.jpg"
+  },
+  {
+    "id": 63,
+    "name": "Nike Air Max Excee",
+    "category": "lifestyle",
+    "price": 94.99,
+    "image": "https://static.nike.com/a/images/excee.jpg"
+  },
+  {
+    "id": 64,
+    "name": "Nike Air Zoom Victory",
+    "category": "running",
+    "price": 189.99,
+    "image": "https://static.nike.com/a/images/zoom-victory.jpg"
+  },
+  {
+    "id": 65,
+    "name": "Nike Dunk Low Disrupt",
+    "category": "sneakers",
+    "price": 114.99,
+    "image": "https://static.nike.com/a/images/dunk-disrupt.jpg"
+  },
+  {
+    "id": 66,
+    "name": "Nike Air Max 98",
+    "category": "lifestyle",
+    "price": 184.99,
+    "image": "https://static.nike.com/a/images/air-max-98.jpg"
+  },
+  {
+    "id": 67,
+    "name": "Nike Air Zoom Terra Kiger",
+    "category": "running",
+    "price": 149.99,
+    "image": "https://static.nike.com/a/images/terra-kiger.jpg"
+  },
+  {
+    "id": 68,
+    "name": "Nike Air Force 1 Pixel",
+    "category": "sneakers",
+    "price": 109.99,
+    "image": "https://static.nike.com/a/images/af1-pixel.jpg"
+  },
+  {
+    "id": 69,
+    "name": "Nike Kyrie Infinity",
+    "category": "basketball",
+    "price": 139.99,
+    "image": "https://static.nike.com/a/images/kyrie-infinity.jpg"
+  },
+  {
+    "id": 70,
+    "name": "Nike Air Max 2017",
+    "category": "lifestyle",
+    "price": 189.99,
+    "image": "https://static.nike.com/a/images/air-max-2017.jpg"
+  },
+  {
+    "id": 71,
+    "name": "Nike Revolution 7",
+    "category": "running",
+    "price": 69.99,
+    "image": "https://static.nike.com/a/images/revolution-7.jpg"
+  },
+  {
+    "id": 72,
+    "name": "Nike Air Max 200",
+    "category": "lifestyle",
+    "price": 129.99,
+    "image": "https://static.nike.com/a/images/air-max-200.jpg"
+  },
+  {
+    "id": 73,
+    "name": "Nike Air Zoom Pulse",
+    "category": "training",
+    "price": 129.99,
+    "image": "https://static.nike.com/a/images/zoom-pulse.jpg"
+  },
+  {
+    "id": 74,
+    "name": "Nike Air Max Bolt",
+    "category": "lifestyle",
+    "price": 94.99,
+    "image": "https://static.nike.com/a/images/air-max-bolt.jpg"
+  },
+  {
+    "id": 75,
+    "name": "Nike Air Max Alpha Trainer",
+    "category": "training",
+    "price": 89.99,
+    "image": "https://static.nike.com/a/images/alpha-trainer.jpg"
+  },
+  {
+    "id": 76,
+    "name": "Nike Air Max Sequent",
+    "category": "running",
+    "price": 109.99,
+    "image": "https://static.nike.com/a/images/sequent.jpg"
+  },
+  {
+    "id": 77,
+    "name": "Nike Air Max Motif",
+    "category": "lifestyle",
+    "price": 149.99,
+    "image": "https://static.nike.com/a/images/motif.jpg"
+  },
+  {
+    "id": 78,
+    "name": "Nike Air Max Genome",
+    "category": "lifestyle",
+    "price": 174.99,
+    "image": "https://static.nike.com/a/images/genome.jpg"
+  },
+  {
+    "id": 79,
+    "name": "Nike Air Max Furyosa",
+    "category": "lifestyle",
+    "price": 159.99,
+    "image": "https://static.nike.com/a/images/furyosa.jpg"
+  },
+  {
+    "id": 80,
+    "name": "Nike Air Max Verona",
+    "category": "lifestyle",
+    "price": 129.99,
+    "image": "https://static.nike.com/a/images/verona.jpg"
+  },
+  {
+    "id": 81,
+    "name": "Nike Air Max Dia",
+    "category": "lifestyle",
+    "price": 109.99,
+    "image": "https://static.nike.com/a/images/dia.jpg"
+  },
+  {
+    "id": 82,
+    "name": "Nike Air Max 2090 EOI",
+    "category": "lifestyle",
+    "price": 159.99,
+    "image": "https://static.nike.com/a/images/2090-eoi.jpg"
+  },
+  {
+    "id": 83,
+    "name": "Nike Air Max Zephyr",
+    "category": "lifestyle",
+    "price": 179.99,
+    "image": "https://static.nike.com/a/images/zephyr.jpg"
+  },
+  {
+    "id": 84,
+    "name": "Nike Air Max Viva",
+    "category": "lifestyle",
+    "price": 139.99,
+    "image": "https://static.nike.com/a/images/viva.jpg"
+  },
+  {
+    "id": 85,
+    "name": "Nike Air Max Up",
+    "category": "lifestyle",
+    "price": 139.99,
+    "image": "https://static.nike.com/a/images/up.jpg"
+  },
+  {
+    "id": 86,
+    "name": "Nike Air Max Pre-Day",
+    "category": "lifestyle",
+    "price": 129.99,
+    "image": "https://static.nike.com/a/images/pre-day.jpg"
+  },
+  {
+    "id": 87,
+    "name": "Nike Air Max 2021",
+    "category": "lifestyle",
+    "price": 159.99,
+    "image": "https://static.nike.com/a/images/air-max-2021.jpg"
+  },
+  {
+    "id": 88,
+    "name": "Nike Air Max 90 SE",
+    "category": "sneakers",
+    "price": 139.99,
+    "image": "https://static.nike.com/a/images/90-se.jpg"
+  },
+  {
+    "id": 89,
+    "name": "Nike Air Max 97 SE",
+    "category": "lifestyle",
+    "price": 184.99,
+    "image": "https://static.nike.com/a/images/97-se.jpg"
+  },
+  {
+    "id": 90,
+    "name": "Nike Air Max 95 Essential",
+    "category": "lifestyle",
+    "price": 169.99,
+    "image": "https://static.nike.com/a/images/95-essential.jpg"
+  },
+  {
+    "id": 91,
+    "name": "Nike Air Max 270 G",
+    "category": "golf",
+    "price": 149.99,
+    "image": "https://static.nike.com/a/images/270-golf.jpg"
+  },
+  {
+    "id": 92,
+    "name": "Nike Air Max 90 Golf",
+    "category": "golf",
+    "price": 139.99,
+    "image": "https://static.nike.com/a/images/90-golf.jpg"
+  },
+  {
+    "id": 93,
+    "name": "Nike Air Max 1 Golf",
+    "category": "golf",
+    "price": 149.99,
+    "image": "https://static.nike.com/a/images/1-golf.jpg"
+  },
+  {
+    "id": 94,
+    "name": "Nike Air Max 97 Golf",
+    "category": "golf",
+    "price": 189.99,
+    "image": "https://static.nike.com/a/images/97-golf.jpg"
+  },
+  {
+    "id": 95,
+    "name": "Nike React Vision",
+    "category": "lifestyle",
+    "price": 139.99,
+    "image": "https://static.nike.com/a/images/react-vision.jpg"
+  },
+  {
+    "id": 96,
+    "name": "Nike React Miler 3",
+    "category": "running",
+    "price": 109.99,
+    "image": "https://static.nike.com/a/images/miler-3.jpg"
+  },
+  {
+    "id": 97,
+    "name": "Nike React Phantom Run",
+    "category": "running",
+    "price": 149.99,
+    "image": "https://static.nike.com/a/images/phantom-run.jpg"
+  },
+  {
+    "id": 98,
+    "name": "Nike React Live",
+    "category": "lifestyle",
+    "price": 109.99,
+    "image": "https://static.nike.com/a/images/react-live.jpg"
+  },
+  {
+    "id": 99,
+    "name": "Nike React Art3mis",
+    "category": "lifestyle",
+    "price": 129.99,
+    "image": "https://static.nike.com/a/images/art3mis.jpg"
+  },
+  {
+    "id": 100,
+    "name": "Nike React Escape Run",
+    "category": "running",
+    "price": 109.99,
+    "image": "https://static.nike.com/a/images/escape-run.jpg"
+  }
+]
